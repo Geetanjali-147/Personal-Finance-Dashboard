@@ -9,7 +9,7 @@ import numpy as np
 # Page Config
 # ------------------------------
 st.set_page_config(
-    page_title="Personal Finance Dashboard", 
+    page_title=" Your Personal  Finance Dashboard ", 
     layout="wide", 
     initial_sidebar_state="expanded",
     page_icon="💰"
@@ -589,3 +589,4 @@ else:  # Dashboard page
             - Visual indicators
             - Achievement milestones
             """)
+
